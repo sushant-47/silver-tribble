@@ -1,3 +1,14 @@
 notebooks/data
 notebooks/cifar_net.pth
 .ipynb_checkpoints/
+.bash_logout
+.bashrc
+.ipython/
+.jupyter-server-log.txt
+.jupyter/
+.local/
+.npm/
+.profile
+.viminfo
+.lesshst
+.gitconfig
