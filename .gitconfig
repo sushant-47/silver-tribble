@@ -1,0 +1,6 @@
+[user]
+	name = sk-silver-tribble
+	email = sk@silver-tribble
+[alias]
+	co-ane = commit --amend --no-edit
+	ph-mn = push origin main
