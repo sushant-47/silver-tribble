@@ -11,3 +11,4 @@ notebooks/cifar_net.pth
 .profile
 .viminfo
 .lesshst
+.cache

@@ -4,3 +4,4 @@
 [alias]
 	co-ane = commit --amend --no-edit
 	ph-mn = push origin main
+	ph-ml = push origin mL
