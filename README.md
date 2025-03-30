@@ -2,5 +2,6 @@
 
 #### Repository created by `Publish Repostory` from Github codespace
 
-#### Binder Link:
-- https://hub.2i2c.mybinder.org/user/sushant-47-silver-tribble-o8flj4zb/lab/tree/README.md
+### ML Roadmap 2022 | How to learn Data Science in 2022 | CampusX
+- https://www.youtube.com/watch?v=5J2J9Ywg1Pc&t=1231s
+- Roadmap repository: https://github.com/campusx-official/ML-Roadmap-for-2022
